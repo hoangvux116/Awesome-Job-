@@ -3,7 +3,10 @@
 
 A simple Job Board built by Python & Flask
 
-## Run script  
+# What does Job Board look like?
+![Web demo 1](https://i.ibb.co/2WBqGyF/Awesome-Job-Board-pic1.png)
+![Web demo 2](https://i.ibb.co/gTS3CZk/Awesome-Job-Board-pic2.png)
+# How to run?  
 1. Open terminal, run ```cd ~ && git clone https://github.com/hoangvux116/Awesome-Job-Web```
 2. Create a virtual environment:\
 ```cd Awesome-Job-Web``` 
