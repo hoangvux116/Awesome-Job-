@@ -12,7 +12,7 @@ A simple Job Board built by Python & Flask
 ```cd Awesome-Job-Web``` 
 ```virtualenv -p python3 venv```
 3. Activate this venv and install requirement packages\
-```source venv/bin/activate``` 
+```source venv/bin/activate```\
 ```pip install -r requirements.txt```
 4. Run script\
 ```python3 crawl.py```\
