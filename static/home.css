@@ -1,0 +1,58 @@
+#number_of_job{
+    margin-left: 100px;
+    color: #23527c;
+    font-size: 48px;
+}
+
+.main{
+    padding-top: 70px;
+    margin-left: 100px; 
+}
+
+.margin-lefts{
+    margin-left: 100px; 
+}
+
+.job-box{
+    width: 50%;
+    margin-left: 100px; /* comment can le trai 100px */
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fffbf8;
+    border: 1px solid #23527c;
+}
+
+}
+.detail-job{
+    display: flex;
+}
+
+.publisher{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #333;
+    position: absolute;
+}
+
+.publish-date{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #333;
+    position: relative;
+    left: 500px;
+}
+
+
+/* .job-box:hover .job-name{
+    color: red;
+    text-decoration: underline;
+} */
+
+/* .job-name:hover { /*  rê chuột vào thì đổi sang màu đỏ */
+    color: red;
+}
+ */

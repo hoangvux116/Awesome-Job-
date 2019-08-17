@@ -1,0 +1,48 @@
+.job-descrip{
+    width: 50%;
+    margin-left: 100px; /* comment can le trai 100px */
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fffbf8;
+    border: 1px solid #23527c;
+}
+.job-title{
+    padding-top: 20px;
+    margin-left: 100px; 
+    color: #e34c31;
+    font-size: 3em;
+    border-left-color: #e34c31;
+}
+
+.company-name {
+    font-size: 28px;
+    color: #777;
+    margin-left: 100px;
+}
+.card-header:first-child {
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+    width: 50%;
+    margin-left: 100px;
+}
+.text-light {
+    color: #f8f9fa !important;
+}
+.text-center {
+    text-align: center !important;
+    width: 50%;
+    margin-left: 100px;
+
+}
+.bg-dark {
+    background-color: #343a40 !important;
+    width: 50%;
+    margin-left: 100px;
+}
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
