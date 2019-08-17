@@ -1,5 +1,5 @@
 # Awesome Job | From GitHub - Location: Vietnam
-[![Build Status](https://api.travis-ci.org/hoangvux116/Awesome-Job-Web.svg?branch=master)]
+![Build Status](https://api.travis-ci.org/hoangvux116/Awesome-Job-Web.svg?branch=master)
 A simple Job Board built by Python & Flask
 
 ## Run script  
