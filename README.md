@@ -12,5 +12,11 @@ A simple Job Board built by Python & Flask
 ```source venv/bin/activate``` 
 ```pip install -r requirements.txt```
 4. Run script
-```python3 nearby_search.py```
 
+```
+python3 crawl.py
+```
+
+```
+python3 web_app.py
+```
